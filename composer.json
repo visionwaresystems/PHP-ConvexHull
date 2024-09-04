@@ -1,0 +1,15 @@
+{
+  "name": "benpoulson/php-convexhull",
+  "description": "PHP-ConvexHull",
+  "type": "library",
+  "require-dev": {
+  },
+  "authors": [
+    {
+      "name": "Ben Poulson",
+      "email": ""
+    }
+  ],
+  "require": {
+  }
+}
